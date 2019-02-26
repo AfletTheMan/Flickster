@@ -26,8 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src=https://i.imgur.com/JR6LBzs.gif width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
-The challenge of getting every class made to connect to one another was a challenge and it's all thanks to Android Studio for it's amazing bug-fix suggestions that I even came to the state I am now. So much was shot in the dark for this one and I felt like I only learned where things can be found in Android Studio more than how to build an app. This had to be one of my most confusing developments.
+Getting every class made to connect to one another was a challenge and it's all thanks to Android Studio that I even came to the state I am now. I am happy with the end result and I feel like I can improve upon future projects from what I learned.
 ### Open-source libraries used
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
